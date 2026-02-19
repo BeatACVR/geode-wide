@@ -8,7 +8,7 @@
 	},
 	"id": "beat.wide",
 	"name": "Wide",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developer": "Beat",
 	"description": "widen your thin",
 	"tags": [
@@ -43,4 +43,5 @@
 		}
 	}
 }
+
 
