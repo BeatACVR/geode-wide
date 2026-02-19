@@ -1,15 +1,15 @@
 {
-	"geode": "5.0.0-beta.1",
+	"geode": "5.0.0-beta.3",
 	"gd": {
 		"win": "2.2081",
 		"android": "2.2081",
 		"mac": "2.2081",
 		"ios": "2.2081"
 	},
-	"id": "amverial.wide",
+	"id": "beat.wide",
 	"name": "Wide",
 	"version": "v1.0.0",
-	"developer": "Amverial",
+	"developer": "Beat",
 	"description": "widen your thin",
 	"tags": [
 		"joke",
@@ -43,3 +43,4 @@
 		}
 	}
 }
+
